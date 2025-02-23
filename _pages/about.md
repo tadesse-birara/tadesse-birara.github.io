@@ -4,7 +4,6 @@ title: "👋 Hello there, I'm Tadesse Birara Akele!"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I'm a Lecturer and the Director of the Electronic Learning Management Division at Wollo University. My research interests focus on e-learning, cybersecurity, and technology integration in education.
